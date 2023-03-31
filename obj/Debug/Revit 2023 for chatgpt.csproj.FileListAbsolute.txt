@@ -1,0 +1,51 @@
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Revit 2023 for chatgpt.exe.config
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Revit 2023 for chatgpt.exe
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Revit 2023 for chatgpt.pdb
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.g.resources
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit_2023_for_chatgpt.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.exe
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt.pdb
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\obj\Debug\Revit 2023 for chatgpt_Content.g.cs
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\generate_code.py
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\openapi.py
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.Modules.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.SQLite.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.Wpf.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Memory.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.Modules.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.SQLite.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\IronPython.Wpf.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Memory.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\source\repos\Revit 2023 for chatgpt\Revit 2023 for chatgpt\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
